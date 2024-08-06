@@ -1,0 +1,51 @@
+ProductID,ProductName,ProductGroupID,Description,Price,Cost,StockQuantity,ReorderLevel,SupplierID,WarrantyPeriod,IsActive,GroupManagerID,Notes
+1,iPhone 13,1,Latest Apple smartphone,799.99,600.00,150,50,201,24,TRUE,101,Best-selling model
+2,Galaxy S21,1,Newest Samsung smartphone,749.99,550.00,120,40,202,24,TRUE,101,High demand
+3,MacBook Pro,2,Apple's high-end laptop,1299.99,1000.00,80,20,203,36,TRUE,102,Popular among professionals
+4,Surface Pro 7,2,Microsoft's versatile tablet-laptop,899.99,700.00,100,30,204,24,TRUE,102,Increased stock for holiday season
+5,iPad Air,3,Latest iPad model,599.99,450.00,130,30,205,24,TRUE,103,Top choice for students
+6,Bose QC35,6,Noise-cancelling headphones,299.99,200.00,200,60,206,12,TRUE,106,High customer satisfaction
+7,LG OLED TV,7,55-inch OLED TV,1499.99,1200.00,70,20,207,24,TRUE,107,Premium picture quality
+8,PS5,8,Latest PlayStation console,499.99,450.00,50,10,208,12,TRUE,108,Limited stock
+9,Canon EOS R5,9,Professional mirrorless camera,3899.99,3000.00,40,10,209,24,TRUE,109,Top-rated camera for professionals
+10,Google Nest Hub,10,Smart home display,99.99,70.00,300,50,210,12,TRUE,110,Popular for smart home integration
+11,Amazon Echo Dot,10,Smart speaker with Alexa,49.99,30.00,500,100,211,12,TRUE,110,High demand for holiday season
+12,Dell XPS 13,2,High-performance laptop,999.99,750.00,90,30,212,24,TRUE,102,Popular among professionals
+13,HP Spectre x360,2,Convertible laptop,1099.99,800.00,85,25,213,24,TRUE,102,Great for both work and play
+14,Sony WH-1000XM4,6,Noise-cancelling headphones,349.99,250.00,180,50,214,12,TRUE,106,Excellent sound quality
+15,Google Pixel 6,1,Latest Google smartphone,699.99,500.00,140,40,215,24,TRUE,101,Popular for its camera quality
+16,Samsung Galaxy Tab S7,3,High-end Android tablet,649.99,500.00,110,30,216,24,TRUE,103,Great for multimedia use
+17,Nintendo Switch,8,Versatile gaming console,299.99,250.00,60,20,217,12,TRUE,108,High demand
+18,Logitech MX Master 3,4,Advanced wireless mouse,99.99,70.00,220,60,218,12,TRUE,104,Ergonomic design
+19,Apple Watch Series 7,1,Latest Apple smartwatch,399.99,300.00,160,50,219,24,TRUE,101,High customer satisfaction
+20,Fitbit Charge 5,4,Advanced fitness tracker,179.99,120.00,210,70,220,12,TRUE,104,Great for health monitoring
+21,ASUS ROG Strix,2,Gaming laptop,1599.99,1200.00,75,25,221,24,TRUE,102,Top choice for gamers
+22,Microsoft Surface Laptop 4,2,Sleek and powerful laptop,1299.99,950.00,80,20,204,24,TRUE,102,Popular for its design and performance
+23,GoPro HERO9,9,Action camera,449.99,350.00,100,30,209,12,TRUE,109,Great for adventure enthusiasts
+24,Samsung QLED TV,7,65-inch QLED TV,1799.99,1400.00,60,15,207,24,TRUE,107,Premium picture quality
+25,JBL Flip 5,6,Portable Bluetooth speaker,119.99,80.00,300,70,222,12,TRUE,106,Great sound for its size
+26,Dyson V11,5,Cordless vacuum cleaner,599.99,450.00,90,20,223,24,TRUE,105,High customer satisfaction
+27,Instant Pot Duo,5,Multifunctional pressure cooker,99.99,70.00,150,30,224,12,TRUE,105,Popular for easy cooking
+28,Anker PowerCore 10000,4,Portable charger,49.99,30.00,400,100,225,12,TRUE,104,Compact and efficient
+29,Sony Alpha a7 III,9,Mirrorless camera,1999.99,1500.00,45,10,209,24,TRUE,109,Top choice for photography
+30,Apple AirPods Pro,6,Wireless earbuds,249.99,180.00,200,50,219,12,TRUE,106,Great sound quality and noise cancellation
+31,Bose SoundLink,6,Bluetooth speaker,129.99,90.00,250,60,206,12,TRUE,106,Popular for outdoor use
+32,LG Gram 17,2,Ultra-lightweight laptop,1499.99,1100.00,70,20,226,24,TRUE,102,High performance and portability
+33,Canon PowerShot G7 X,9,Compact digital camera,749.99,600.00,90,25,209,12,TRUE,109,Great for vlogging
+34,Ring Video Doorbell,10,Smart doorbell with camera,199.99,150.00,180,40,210,12,TRUE,110,Popular for home security
+35,Philips Hue Bulbs,10,Smart LED bulbs,49.99,35.00,500,100,227,12,TRUE,110,Easy to set up and use
+36,Breville Smart Oven,5,Convection toaster oven,299.99,220.00,80,20,228,24,TRUE,105,Popular for versatile cooking
+37,Nikon D3500,9,Entry-level DSLR camera,499.99,400.00,110,30,209,12,TRUE,109,Great for beginners
+38,Sonos One,6,Smart speaker with voice control,199.99,150.00,190,50,229,12,TRUE,106,Excellent sound quality
+39,Panasonic Lumix GH5,9,Professional mirrorless camera,1499.99,1200.00,50,15,209,24,TRUE,109,Great for video production
+40,Apple Mac Mini,2,Compact desktop computer,699.99,500.00,60,20,219,24,TRUE,102,Popular for its size and performance
+41,Samsung Galaxy Watch 4,4,Smartwatch with health features,299.99,220.00,120,30,230,24,TRUE,101,Popular for fitness tracking
+42,Lenovo ThinkPad X1 Carbon,2,Premium business laptop,1599.99,1200.00,70,20,231,24,TRUE,102,Highly durable and lightweight
+43,Bose QuietComfort Earbuds,6,Wireless noise-cancelling earbuds,279.99,200.00,150,40,214,12,TRUE,106,Superior noise cancellation
+44,Google Pixelbook Go,2,Ultra-thin Chromebook,649.99,500.00,100,30,215,24,TRUE,102,Long battery life
+45,Sony PlayStation 5 Digital Edition,8,Digital edition gaming console,399.99,350.00,80,25,208,12,TRUE,108,Popular among gamers
+46,Apple HomePod Mini,10,Compact smart speaker,99.99,80.00,200,50,219,12,TRUE,110,Integration with Apple ecosystem
+47,Canon EOS Rebel T7i,9,Entry-level DSLR camera,699.99,550.00,70,20,209,12,TRUE,109,Great for photography enthusiasts
+48,Samsung Galaxy Buds Pro,6,Wireless earbuds with ANC,199.99,150.00,180,40,216,12,TRUE,106,Clear sound quality
+49,LG UltraGear 27GN950-B,7,27-inch gaming monitor,999.99,800.00,50,15,232,24,TRUE,107,High refresh rate
+50,Fitbit Versa 3,4,Health and fitness smartwatch,229.99,180.00,160,40,220,12,TRUE,104,Built-in GPS for outdoor activities

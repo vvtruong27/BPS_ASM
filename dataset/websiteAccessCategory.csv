@@ -1,0 +1,201 @@
+AccessID,CustomerID,AccessDate,PageViewed,Duration,ReferrerURL,DeviceType,BrowserType,ActionTaken,Conversion
+1,15,2023-05-10,"https://example.com/product-page",120,"https://google.com","Desktop","Chrome","Added product to cart",FALSE
+2,87,2023-05-10,"https://example.com/home",60,"https://bing.com","Mobile","Safari","Browsed homepage",FALSE
+3,112,2023-05-11,"https://example.com/product-page",180,"https://yahoo.com","Desktop","Firefox","Viewed product details",FALSE
+4,53,2023-05-11,"https://example.com/about-us",90,"https://google.com","Tablet","Safari","Read about us section",FALSE
+5,178,2023-05-12,"https://example.com/product-page",150,"https://facebook.com","Mobile","Chrome","Added product to wishlist",FALSE
+6,31,2023-05-12,"https://example.com/contact-us",45,"https://bing.com","Mobile","Chrome","Submitted contact form",FALSE
+7,95,2023-05-13,"https://example.com/product-page",210,"https://google.com","Desktop","Firefox","Added product to cart",TRUE
+8,64,2023-05-13,"https://example.com/home",80,"https://yahoo.com","Desktop","Edge","Browsed homepage",FALSE
+9,184,2023-05-14,"https://example.com/product-page",100,"https://google.com","Mobile","Safari","Viewed product details",FALSE
+10,22,2023-05-14,"https://example.com/about-us",120,"https://bing.com","Desktop","Chrome","Read about us section",FALSE
+11,109,2023-05-15,"https://example.com/product-page",130,"https://yahoo.com","Mobile","Safari","Added product to cart",FALSE
+12,72,2023-05-15,"https://example.com/contact-us",70,"https://google.com","Tablet","Firefox","Submitted contact form",FALSE
+13,197,2023-05-16,"https://example.com/product-page",180,"https://facebook.com","Desktop","Chrome","Viewed product details",FALSE
+14,44,2023-05-16,"https://example.com/home",90,"https://bing.com","Mobile","Safari","Browsed homepage",FALSE
+15,123,2023-05-17,"https://example.com/product-page",140,"https://google.com","Desktop","Firefox","Added product to cart",TRUE
+16,81,2023-05-17,"https://example.com/about-us",60,"https://yahoo.com","Mobile","Chrome","Read about us section",FALSE
+17,156,2023-05-18,"https://example.com/product-page",200,"https://google.com","Desktop","Safari","Added product to cart",FALSE
+18,12,2023-05-18,"https://example.com/contact-us",110,"https://bing.com","Desktop","Chrome","Submitted contact form",FALSE
+19,67,2023-05-19,"https://example.com/product-page",170,"https://google.com","Mobile","Firefox","Viewed product details",FALSE
+20,193,2023-05-19,"https://example.com/home",130,"https://yahoo.com","Desktop","Chrome","Browsed homepage",FALSE
+21,37,2023-05-20,"https://example.com/product-page",140,"https://google.com","Mobile","Safari","Added product to wishlist",FALSE
+22,141,2023-05-20,"https://example.com/about-us",80,"https://bing.com","Tablet","Firefox","Read about us section",FALSE
+23,177,2023-05-21,"https://example.com/product-page",150,"https://google.com","Desktop","Chrome","Viewed product details",FALSE
+24,50,2023-05-21,"https://example.com/contact-us",75,"https://yahoo.com","Mobile","Safari","Submitted contact form",FALSE
+25,92,2023-05-22,"https://example.com/product-page",160,"https://google.com","Desktop","Edge","Added product to cart",TRUE
+26,61,2023-05-22,"https://example.com/home",100,"https://bing.com","Mobile","Chrome","Browsed homepage",FALSE
+27,187,2023-05-23,"https://example.com/product-page",170,"https://google.com","Desktop","Firefox","Viewed product details",FALSE
+28,28,2023-05-23,"https://example.com/about-us",95,"https://yahoo.com","Tablet","Safari","Read about us section",FALSE
+29,105,2023-05-24,"https://example.com/product-page",180,"https://google.com","Mobile","Chrome","Added product to cart",FALSE
+30,76,2023-05-24,"https://example.com/contact-us",85,"https://bing.com","Desktop","Chrome","Submitted contact form",FALSE
+31,15,2023-05-25,"https://example.com/product-page",190,"https://google.com","Desktop","Firefox","Viewed product details",FALSE
+32,87,2023-05-25,"https://example.com/home",110,"https://yahoo.com","Mobile","Safari","Browsed homepage",FALSE
+33,112,2023-05-26,"https://example.com/product-page",200,"https://facebook.com","Desktop","Chrome","Added product to cart",TRUE
+34,53,2023-05-26,"https://example.com/about-us",75,"https://bing.com","Desktop","Firefox","Read about us section",FALSE
+35,178,2023-05-27,"https://example.com/product-page",210,"https://google.com","Mobile","Safari","Viewed product details",FALSE
+36,31,2023-05-27,"https://example.com/contact-us",65,"https://yahoo.com","Mobile","Chrome","Submitted contact form",FALSE
+37,95,2023-05-28,"https://example.com/product-page",220,"https://google.com","Desktop","Edge","Added product to cart",FALSE
+38,64,2023-05-28,"https://example.com/home",120,"https://bing.com","Desktop","Chrome","Browsed homepage",FALSE
+39,184,2023-05-29,"https://example.com/product-page",230,"https://google.com","Mobile","Safari","Viewed product details",FALSE
+40,22,2023-05-29,"https://example.com/about-us",85,"https://yahoo.com","Desktop","Firefox","Read about us section",FALSE
+41,109,2023-05-30,"https://example.com/product-page",240,"https://google.com","Desktop","Chrome","Added product to cart",FALSE
+42,72,2023-05-30,"https://example.com/home",130,"https://bing.com","Mobile","Safari","Browsed homepage",FALSE
+43,197,2023-05-31,"https://example.com/product-page",250,"https://yahoo.com","Desktop","Firefox","Viewed product details",FALSE
+44,44,2023-05-31,"https://example.com/about-us",95,"https://google.com","Tablet","Chrome","Read about us section",FALSE
+45,123,2023-06-01,"https://example.com/product-page",260,"https://facebook.com","Mobile","Safari","Added product to cart",TRUE
+46,81,2023-06-01,"https://example.com/contact-us",70,"https://bing.com","Desktop","Edge","Submitted contact form",FALSE
+47,156,2023-06-02,"https://example.com/product-page",270,"https://yahoo.com","Desktop","Firefox","Viewed product details",FALSE
+48,12,2023-06-02,"https://example.com/home",140,"https://google.com","Mobile","Chrome","Browsed homepage",FALSE
+49,67,2023-06-03,"https://example.com/product-page",280,"https://bing.com","Desktop","Safari","Added product to wishlist",FALSE
+50,193,2023-06-03,"https://example.com/about-us",105,"https://yahoo.com","Mobile","Firefox","Read about us section",FALSE
+51,37,2023-06-04,"https://example.com/product-page",290,"https://google.com","Desktop","Chrome","Viewed product details",FALSE
+52,141,2023-06-04,"https://example.com/contact-us",75,"https://facebook.com","Mobile","Safari","Submitted contact form",FALSE
+53,177,2023-06-05,"https://example.com/product-page",300,"https://bing.com","Desktop","Edge","Added product to cart",TRUE
+54,50,2023-06-05,"https://example.com/home",150,"https://google.com","Mobile","Chrome","Browsed homepage",FALSE
+55,92,2023-06-06,"https://example.com/product-page",310,"https://yahoo.com","Desktop","Firefox","Viewed product details",FALSE
+56,61,2023-06-06,"https://example.com/about-us",110,"https://bing.com","Desktop","Chrome","Read about us section",FALSE
+57,187,2023-06-07,"https://example.com/product-page",320,"https://google.com","Mobile","Safari","Added product to cart",FALSE
+58,28,2023-06-07,"https://example.com/contact-us",85,"https://yahoo.com","Desktop","Firefox","Submitted contact form",FALSE
+59,105,2023-06-08,"https://example.com/product-page",330,"https://facebook.com","Tablet","Chrome","Viewed product details",FALSE
+60,76,2023-06-08,"https://example.com/home",160,"https://bing.com","Mobile","Safari","Browsed homepage",FALSE
+61,15,2023-06-09,"https://example.com/product-page",340,"https://google.com","Desktop","Edge","Added product to cart",TRUE
+62,87,2023-06-09,"https://example.com/about-us",120,"https://yahoo.com","Desktop","Chrome","Read about us section",FALSE
+63,112,2023-06-10,"https://example.com/product-page",350,"https://bing.com","Mobile","Safari","Viewed product details",FALSE
+64,53,2023-06-10,"https://example.com/contact-us",95,"https://google.com","Desktop","Firefox","Submitted contact form",FALSE
+65,178,2023-06-11,"https://example.com/product-page",360,"https://facebook.com","Mobile","Chrome","Added product to wishlist",FALSE
+66,31,2023-06-11,"https://example.com/home",170,"https://bing.com","Desktop","Chrome","Browsed homepage",FALSE
+67,95,2023-06-12,"https://example.com/product-page",370,"https://yahoo.com","Desktop","Firefox","Added product to cart",FALSE
+68,64,2023-06-12,"https://example.com/about-us",130,"https://google.com","Mobile","Safari","Read about us section",FALSE
+69,184,2023-06-13,"https://example.com/product-page",380,"https://bing.com","Desktop","Edge","Viewed product details",FALSE
+70,22,2023-06-13,"https://example.com/contact-us",105,"https://facebook.com","Mobile","Chrome","Submitted contact form",FALSE
+71,109,2023-06-14,"https://example.com/product-page",390,"https://google.com","Desktop","Safari","Added product to cart",TRUE
+72,72,2023-06-14,"https://example.com/home",140,"https://yahoo.com","Desktop","Firefox","Browsed homepage",FALSE
+73,197,2023-06-15,"https://example.com/product-page",400,"https://bing.com","Mobile","Chrome","Viewed product details",FALSE
+74,44,2023-06-15,"https://example.com/about-us",115,"https://google.com","Tablet","Safari","Read about us section",FALSE
+75,123,2023-06-16,"https://example.com/product-page",410,"https://yahoo.com","Mobile","Edge","Added product to cart",FALSE
+76,81,2023-06-16,"https://example.com/contact-us",80,"https://facebook.com","Desktop","Chrome","Submitted contact form",FALSE
+77,156,2023-06-17,"https://example.com/product-page",420,"https://bing.com","Desktop","Firefox","Viewed product details",FALSE
+78,12,2023-06-17,"https://example.com/home",150,"https://google.com","Mobile","Safari","Browsed homepage",FALSE
+79,67,2023-06-18,"https://example.com/product-page",430,"https://yahoo.com","Desktop","Chrome","Added product to wishlist",FALSE
+80,193,2023-06-18,"https://example.com/about-us",125,"https://facebook.com","Mobile","Firefox","Read about us section",FALSE
+81,37,2023-06-19,"https://example.com/product-page",440,"https://google.com","Desktop","Chrome","Viewed product details",FALSE
+82,141,2023-06-19,"https://example.com/home",175,"https://yahoo.com","Mobile","Safari","Browsed homepage",FALSE
+83,177,2023-06-20,"https://example.com/product-page",450,"https://bing.com","Desktop","Edge","Added product to cart",TRUE
+84,50,2023-06-20,"https://example.com/about-us",135,"https://google.com","Mobile","Chrome","Read about us section",FALSE
+85,92,2023-06-21,"https://example.com/product-page",460,"https://facebook.com","Desktop","Firefox","Viewed product details",FALSE
+86,61,2023-06-21,"https://example.com/contact-us",90,"https://bing.com","Mobile","Safari","Submitted contact form",FALSE
+87,187,2023-06-22,"https://example.com/product-page",470,"https://google.com","Desktop","Chrome","Added product to cart",FALSE
+88,28,2023-06-22,"https://example.com/home",160,"https://yahoo.com","Desktop","Edge","Browsed homepage",FALSE
+89,105,2023-06-23,"https://example.com/product-page",480,"https://bing.com","Mobile","Safari","Viewed product details",FALSE
+90,76,2023-06-23,"https://example.com/about-us",145,"https://google.com","Desktop","Chrome","Read about us section",FALSE
+91,15,2023-06-24,"https://example.com/product-page",490,"https://facebook.com","Tablet","Firefox","Added product to wishlist",FALSE
+92,87,2023-06-24,"https://example.com/contact-us",95,"https://google.com","Mobile","Safari","Submitted contact form",FALSE
+93,112,2023-06-25,"https://example.com/product-page",500,"https://yahoo.com","Desktop","Chrome","Viewed product details",FALSE
+94,53,2023-06-25,"https://example.com/home",120,"https://bing.com","Desktop","Firefox","Browsed homepage",FALSE
+95,178,2023-06-26,"https://example.com/product-page",510,"https://google.com","Mobile","Edge","Added product to cart",TRUE
+96,31,2023-06-26,"https://example.com/about-us",155,"https://yahoo.com","Mobile","Chrome","Read about us section",FALSE
+97,95,2023-06-27,"https://example.com/product-page",520,"https://facebook.com","Desktop","Firefox","Viewed product details",FALSE
+98,64,2023-06-27,"https://example.com/contact-us",100,"https://bing.com","Tablet","Safari","Submitted contact form",FALSE
+99,184,2023-06-28,"https://example.com/product-page",530,"https://google.com","Mobile","Chrome","Added product to cart",FALSE
+100,22,2023-06-28,"https://example.com/home",130,"https://yahoo.com","Desktop","Edge","Browsed homepage",FALSE
+101,109,2023-06-29,"https://example.com/product-page",540,"https://bing.com","Desktop","Chrome","Viewed product details",FALSE
+102,72,2023-06-29,"https://example.com/about-us",165,"https://google.com","Mobile","Safari","Read about us section",FALSE
+103,197,2023-06-30,"https://example.com/product-page",550,"https://facebook.com","Desktop","Firefox","Added product to wishlist",FALSE
+104,44,2023-06-30,"https://example.com/contact-us",105,"https://bing.com","Mobile","Chrome","Submitted contact form",FALSE
+105,123,2023-07-01,"https://example.com/product-page",560,"https://google.com","Desktop","Safari","Viewed product details",FALSE
+106,81,2023-07-01,"https://example.com/home",140,"https://yahoo.com","Desktop","Chrome","Browsed homepage",FALSE
+107,156,2023-07-02,"https://example.com/product-page",570,"https://bing.com","Mobile","Edge","Added product to cart",TRUE
+108,12,2023-07-02,"https://example.com/about-us",175,"https://google.com","Tablet","Firefox","Read about us section",FALSE
+109,67,2023-07-03,"https://example.com/product-page",580,"https://facebook.com","Mobile","Safari","Viewed product details",FALSE
+110,193,2023-07-03,"https://example.com/contact-us",115,"https://bing.com","Desktop","Chrome","Submitted contact form",FALSE
+111,37,2023-07-04,"https://example.com/product-page",590,"https://google.com","Mobile","Firefox","Added product to cart",FALSE
+112,141,2023-07-04,"https://example.com/home",180,"https://yahoo.com","Desktop","Safari","Browsed homepage",FALSE
+113,177,2023-07-05,"https://example.com/product-page",600,"https://bing.com","Desktop","Chrome","Viewed product details",FALSE
+114,50,2023-07-05,"https://example.com/about-us",155,"https://google.com","Mobile","Edge","Read about us section",FALSE
+115,92,2023-07-06,"https://example.com/product-page",610,"https://yahoo.com","Desktop","Firefox","Added product to wishlist",FALSE
+116,61,2023-07-06,"https://example.com/contact-us",120,"https://facebook.com","Mobile","Safari","Submitted contact form",FALSE
+117,187,2023-07-07,"https://example.com/product-page",620,"https://bing.com","Desktop","Chrome","Viewed product details",FALSE
+118,28,2023-07-07,"https://example.com/home",160,"https://google.com","Desktop","Edge","Browsed homepage",FALSE
+119,105,2023-07-08,"https://example.com/product-page",630,"https://yahoo.com","Mobile","Firefox","Added product to cart",FALSE
+120,76,2023-07-08,"https://example.com/about-us",165,"https://bing.com","Mobile","Chrome","Read about us section",FALSE
+121,15,2023-07-09,"https://example.com/product-page",640,"https://google.com","Desktop","Chrome","Viewed product details",FALSE
+122,87,2023-07-09,"https://example.com/home",190,"https://yahoo.com","Mobile","Safari","Browsed homepage",FALSE
+123,112,2023-07-10,"https://example.com/product-page",650,"https://bing.com","Desktop","Edge","Added product to cart",TRUE
+124,53,2023-07-10,"https://example.com/about-us",175,"https://google.com","Mobile","Chrome","Read about us section",FALSE
+125,178,2023-07-11,"https://example.com/product-page",660,"https://facebook.com","Desktop","Firefox","Viewed product details",FALSE
+126,31,2023-07-11,"https://example.com/contact-us",130,"https://bing.com","Mobile","Safari","Submitted contact form",FALSE
+127,95,2023-07-12,"https://example.com/product-page",670,"https://google.com","Desktop","Chrome","Added product to cart",FALSE
+128,64,2023-07-12,"https://example.com/home",170,"https://yahoo.com","Desktop","Edge","Browsed homepage",FALSE
+129,184,2023-07-13,"https://example.com/product-page",680,"https://bing.com","Mobile","Safari","Viewed product details",FALSE
+130,22,2023-07-13,"https://example.com/about-us",185,"https://google.com","Desktop","Firefox","Read about us section",FALSE
+131,109,2023-07-14,"https://example.com/product-page",690,"https://facebook.com","Tablet","Chrome","Added product to wishlist",FALSE
+132,72,2023-07-14,"https://example.com/contact-us",135,"https://bing.com","Mobile","Safari","Submitted contact form",FALSE
+133,197,2023-07-15,"https://example.com/product-page",700,"https://google.com","Desktop","Chrome","Viewed product details",FALSE
+134,44,2023-07-15,"https://example.com/home",180,"https://yahoo.com","Desktop","Firefox","Browsed homepage",FALSE
+135,123,2023-07-16,"https://example.com/product-page",710,"https://bing.com","Mobile","Edge","Added product to cart",TRUE
+136,81,2023-07-16,"https://example.com/about-us",195,"https://google.com","Mobile","Chrome","Read about us section",FALSE
+137,156,2023-07-17,"https://example.com/product-page",720,"https://facebook.com","Desktop","Safari","Viewed product details",FALSE
+138,12,2023-07-17,"https://example.com/contact-us",145,"https://bing.com","Mobile","Firefox","Submitted contact form",FALSE
+139,67,2023-07-18,"https://example.com/product-page",730,"https://google.com","Desktop","Chrome","Added product to wishlist",FALSE
+140,193,2023-07-18,"https://example.com/home",190,"https://yahoo.com","Tablet","Safari","Browsed homepage",FALSE
+141,37,2023-07-19,"https://example.com/product-page",740,"https://bing.com","Desktop","Edge","Viewed product details",FALSE
+142,141,2023-07-19,"https://example.com/about-us",205,"https://google.com","Desktop","Chrome","Read about us section",FALSE
+143,177,2023-07-20,"https://example.com/product-page",750,"https://facebook.com","Mobile","Firefox","Added product to cart",FALSE
+144,50,2023-07-20,"https://example.com/contact-us",155,"https://bing.com","Desktop","Safari","Submitted contact form",FALSE
+145,92,2023-07-21,"https://example.com/product-page",760,"https://google.com","Mobile","Chrome","Viewed product details",FALSE
+146,61,2023-07-21,"https://example.com/home",200,"https://yahoo.com","Desktop","Firefox","Browsed homepage",FALSE
+147,187,2023-07-22,"https://example.com/product-page",770,"https://bing.com","Mobile","Edge","Added product to cart",TRUE
+148,28,2023-07-22,"https://example.com/about-us",215,"https://google.com","Mobile","Safari","Read about us section",FALSE
+149,105,2023-07-23,"https://example.com/product-page",780,"https://facebook.com","Desktop","Chrome","Added product to wishlist",FALSE
+150,76,2023-07-23,"https://example.com/contact-us",165,"https://bing.com","Desktop","Firefox","Submitted contact form",FALSE
+151,15,2023-07-24,"https://example.com/product-page",790,"https://google.com","Mobile","Safari","Viewed product details",FALSE
+152,87,2023-07-24,"https://example.com/home",210,"https://yahoo.com","Desktop","Edge","Browsed homepage",FALSE
+153,112,2023-07-25,"https://example.com/product-page",800,"https://bing.com","Desktop","Chrome","Added product to cart",FALSE
+154,53,2023-07-25,"https://example.com/about-us",225,"https://google.com","Mobile","Firefox","Read about us section",FALSE
+155,178,2023-07-26,"https://example.com/product-page",810,"https://facebook.com","Tablet","Safari","Viewed product details",FALSE
+156,31,2023-07-26,"https://example.com/contact-us",175,"https://bing.com","Mobile","Chrome","Submitted contact form",FALSE
+157,95,2023-07-27,"https://example.com/product-page",820,"https://google.com","Desktop","Firefox","Added product to cart",FALSE
+158,64,2023-07-27,"https://example.com/home",220,"https://yahoo.com","Desktop","Chrome","Browsed homepage",FALSE
+159,184,2023-07-28,"https://example.com/product-page",830,"https://facebook.com","Mobile","Edge","Viewed product details",FALSE
+160,22,2023-07-28,"https://example.com/about-us",235,"https://bing.com","Desktop","Safari","Read about us section",FALSE
+161,109,2023-07-29,"https://example.com/product-page",840,"https://google.com","Desktop","Chrome","Viewed product details",FALSE
+162,72,2023-07-29,"https://example.com/home",230,"https://yahoo.com","Mobile","Safari","Browsed homepage",FALSE
+163,197,2023-07-30,"https://example.com/product-page",850,"https://bing.com","Desktop","Edge","Added product to cart",TRUE
+164,44,2023-07-30,"https://example.com/about-us",245,"https://google.com","Mobile","Chrome","Read about us section",FALSE
+165,123,2023-07-31,"https://example.com/product-page",860,"https://yahoo.com","Desktop","Firefox","Viewed product details",FALSE
+166,81,2023-07-31,"https://example.com/contact-us",190,"https://bing.com","Mobile","Safari","Submitted contact form",FALSE
+167,156,2023-08-01,"https://example.com/product-page",870,"https://google.com","Desktop","Chrome","Added product to cart",FALSE
+168,12,2023-08-01,"https://example.com/home",240,"https://yahoo.com","Desktop","Edge","Browsed homepage",FALSE
+169,67,2023-08-02,"https://example.com/product-page",880,"https://bing.com","Mobile","Safari","Viewed product details",FALSE
+170,193,2023-08-02,"https://example.com/about-us",255,"https://google.com","Desktop","Firefox","Read about us section",FALSE
+171,37,2023-08-03,"https://example.com/product-page",890,"https://facebook.com","Desktop","Chrome","Added product to wishlist",FALSE
+172,141,2023-08-03,"https://example.com/contact-us",200,"https://bing.com","Mobile","Safari","Submitted contact form",FALSE
+173,177,2023-08-04,"https://example.com/product-page",900,"https://google.com","Desktop","Edge","Viewed product details",FALSE
+174,50,2023-08-04,"https://example.com/home",250,"https://yahoo.com","Mobile","Chrome","Browsed homepage",FALSE
+175,92,2023-08-05,"https://example.com/product-page",910,"https://bing.com","Desktop","Firefox","Added product to cart",FALSE
+176,61,2023-08-05,"https://example.com/about-us",265,"https://google.com","Mobile","Safari","Read about us section",FALSE
+177,187,2023-08-06,"https://example.com/product-page",920,"https://facebook.com","Tablet","Chrome","Viewed product details",FALSE
+178,28,2023-08-06,"https://example.com/contact-us",210,"https://bing.com","Desktop","Firefox","Submitted contact form",FALSE
+179,105,2023-08-07,"https://example.com/product-page",930,"https://google.com","Mobile","Safari","Added product to wishlist",FALSE
+180,76,2023-08-07,"https://example.com/home",260,"https://yahoo.com","Desktop","Edge","Browsed homepage",FALSE
+181,15,2023-08-08,"https://example.com/product-page",940,"https://bing.com","Mobile","Chrome","Viewed product details",FALSE
+182,87,2023-08-08,"https://example.com/about-us",275,"https://google.com","Desktop","Firefox","Read about us section",FALSE
+183,112,2023-08-09,"https://example.com/product-page",950,"https://facebook.com","Desktop","Chrome","Added product to cart",TRUE
+184,53,2023-08-09,"https://example.com/home",270,"https://yahoo.com","Mobile","Safari","Browsed homepage",FALSE
+185,178,2023-08-10,"https://example.com/product-page",960,"https://bing.com","Desktop","Edge","Viewed product details",FALSE
+186,31,2023-08-10,"https://example.com/contact-us",220,"https://google.com","Desktop","Chrome","Submitted contact form",FALSE
+187,95,2023-08-11,"https://example.com/product-page",970,"https://yahoo.com","Mobile","Firefox","Added product to cart",FALSE
+188,64,2023-08-11,"https://example.com/about-us",285,"https://bing.com","Tablet","Safari","Read about us section",FALSE
+189,184,2023-08-12,"https://example.com/product-page",980,"https://google.com","Mobile","Chrome","Viewed product details",FALSE
+190,22,2023-08-12,"https://example.com/home",280,"https://facebook.com","Desktop","Firefox","Browsed homepage",FALSE
+191,109,2023-08-13,"https://example.com/product-page",990,"https://bing.com","Desktop","Chrome","Added product to cart",FALSE
+192,72,2023-08-13,"https://example.com/contact-us",230,"https://google.com","Mobile","Safari","Submitted contact form",FALSE
+193,197,2023-08-14,"https://example.com/product-page",1000,"https://yahoo.com","Desktop","Edge","Viewed product details",FALSE
+194,44,2023-08-14,"https://example.com/about-us",295,"https://bing.com","Mobile","Chrome","Read about us section",FALSE
+195,123,2023-08-15,"https://example.com/product-page",1010,"https://google.com","Desktop","Firefox","Added product to wishlist",FALSE
+196,81,2023-08-15,"https://example.com/home",290,"https://facebook.com","Mobile","Safari","Browsed homepage",FALSE
+197,156,2023-08-16,"https://example.com/product-page",1020,"https://bing.com","Desktop","Chrome","Viewed product details",FALSE
+198,12,2023-08-16,"https://example.com/contact-us",240,"https://google.com","Desktop","Edge","Submitted contact form",FALSE
+199,67,2023-08-17,"https://example.com/product-page",1030,"https://yahoo.com","Mobile","Chrome","Added product to cart",TRUE
+200,193,2023-08-17,"https://example.com/about-us",305,"https://bing.com","Desktop","Firefox","Read about us section",FALSE
